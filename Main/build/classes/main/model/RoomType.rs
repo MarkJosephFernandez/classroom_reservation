@@ -1,0 +1,2 @@
+model.RoomType
+model.Room
